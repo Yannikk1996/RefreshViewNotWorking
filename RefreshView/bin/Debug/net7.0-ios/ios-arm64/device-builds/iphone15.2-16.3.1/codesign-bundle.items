@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_CodesignBundle Include="RefreshView.app">
+      <CodesignSigningKey>5D288F648CD991C5BBF0C1B70FBFBC65A69F8F49</CodesignSigningKey>
+      <CodesignEntitlements>\Users\udokunzler\Library\Caches\Xamarin\mtbs\builds\RefreshView\0055835081eedb8acaf8b08dde1ddffa6390baa9884e2dcb1c3fb94527a77b43\obj\Debug\net7.0-ios\ios-arm64\device-builds\iphone15.2-16.3.1\Entitlements.xcent</CodesignEntitlements>
+      <CodesignUseSecureTimestamp></CodesignUseSecureTimestamp>
+      <CodesignAllocate>\Applications\Xcode.app\Contents\Developer\Toolchains\XcodeDefault.xctoolchain\usr\bin\codesign_allocate</CodesignAllocate>
+      <RequireCodeSigning>true</RequireCodeSigning>
+      <CodesignExtraArgs></CodesignExtraArgs>
+      <CodesignResourceRules></CodesignResourceRules>
+      <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
+      <CodesignKeychain></CodesignKeychain>
+      <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
+      <SourceProjectPath>C:\Users\sasch\source\repos\RefreshView\RefreshView</SourceProjectPath>
+    </_CodesignBundle>
+  </ItemGroup>
+</Project>

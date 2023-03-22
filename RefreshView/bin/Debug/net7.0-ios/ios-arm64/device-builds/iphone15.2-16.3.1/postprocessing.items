@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="RefreshView.app/RefreshView">
+      <BCSymbolMapName>RefreshView.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>false</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>RefreshView.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\udokunzler\Library\Caches\Xamarin\mtbs\builds\RefreshView\0055835081eedb8acaf8b08dde1ddffa6390baa9884e2dcb1c3fb94527a77b43\obj\Debug\net7.0-ios\ios-arm64\device-builds\iphone15.2-16.3.1\mtouch-symbols.list</SymbolFile>
+      <DSymName>RefreshView.app.dSYM</DSymName>
+      <SourceProjectPath>C:\Users\sasch\source\repos\RefreshView\RefreshView</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
